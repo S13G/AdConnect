@@ -9,7 +9,7 @@ with people using our API - ADConnectAPI.
 
 ## AdConnect API Link
 
-https://pay-trac.vercel.app/
+https://adconnect.up.railway.app/
 
 ## Table of Contents
 
