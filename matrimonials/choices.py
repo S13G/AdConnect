@@ -1,0 +1,33 @@
+RELIGION_CHRISTIAN = "Christian"
+RELIGION_MUSLIM = "Muslim"
+RELIGION_HINDU = "Hindu"
+RELIGION_SIKH = "Sikh"
+RELIGION_BUDDHISM = "Buddhism"
+
+RELIGION_CHOICES = (
+    (RELIGION_CHRISTIAN, "Christian"),
+    (RELIGION_MUSLIM, "Muslim"),
+    (RELIGION_HINDU, "Hindu"),
+    (RELIGION_SIKH, "Sikh"),
+    (RELIGION_BUDDHISM, "Buddhism"),
+)
+
+EDUCATION_UNDER_GRADUATION = "Under Graduation"
+EDUCATION_GRADUATION = "Graduation"
+EDUCATION_POST_GRADUATION = "Post Graduation"
+
+EDUCATION_CHOICES = (
+    (EDUCATION_UNDER_GRADUATION, "Under Graduation"),
+    (EDUCATION_GRADUATION, "Graduation"),
+    (EDUCATION_POST_GRADUATION, "Post Graduation"),
+)
+
+CONNECTION_PENDING = "Pending"
+CONNECTION_ACCEPTED = "Accepted"
+CONNECTION_REJECTED = "Rejected"
+
+CONNECTION_CHOICES = (
+    (CONNECTION_PENDING, "Pending request"),
+    (CONNECTION_ACCEPTED, "Accepted request"),
+    (CONNECTION_REJECTED, "Rejected request"),
+)
