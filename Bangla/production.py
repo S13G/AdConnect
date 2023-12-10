@@ -2,7 +2,7 @@ from .settings import *
 
 DEBUG = config("DEBUG")
 
-ALLOWED_HOSTS = ["bangla.up.railway.app"]
+ALLOWED_HOSTS = ["adconnect.up.railway.app"]
 
 CSRF_TRUSTED_ORIGINS = ["https://" + host for host in ALLOWED_HOSTS]
 
