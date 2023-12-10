@@ -2,7 +2,7 @@
 
 ![logo-icon.png](static%2Flogo-icon.png)
 
-<a href="https://www.flaticon.com/free-icons/adwords" title="adwords icons">Adwords icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/adwords" title="adwords icons">AdConnect icon created by Freepik - Flaticon</a>
 
 Facilitate seamless advertisement posting for events, perform CRUD operations, create matrimonial profiles, and connect
 with people using our API - ADConnectAPI.
